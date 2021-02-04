@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOCustAndMovieConnArch", "ADOCustAndMovieConnArch\ADOCustAndMovieConnArch.csproj", "{877A569E-F221-4282-BC67-D47018EF63B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinMovieTableDbConnection", "WinMovieTableDbConnection\WinMovieTableDbConnection.csproj", "{80D88508-F827-4B1E-8DA7-E2B395FDF188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877A569E-F221-4282-BC67-D47018EF63B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877A569E-F221-4282-BC67-D47018EF63B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877A569E-F221-4282-BC67-D47018EF63B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877A569E-F221-4282-BC67-D47018EF63B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D88508-F827-4B1E-8DA7-E2B395FDF188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D88508-F827-4B1E-8DA7-E2B395FDF188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D88508-F827-4B1E-8DA7-E2B395FDF188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D88508-F827-4B1E-8DA7-E2B395FDF188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC3F6A86-0114-4355-B2B7-D820D9A50832}
+	EndGlobalSection
+EndGlobal
